@@ -1,4 +1,4 @@
-# SQL Queries: Retrieving Data & Using Aliases
+# SELECT Command: Retrieving Data & Using Aliases
 
 SQL provides the `SELECT` statement to retrieve data from one or more tables.
 
